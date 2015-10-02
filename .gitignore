@@ -1,0 +1,9 @@
+*.tvsconfig
+*.~dsk
+*.dsk
+*.local
+*.identcache
+*.map
+*.drc
+*.exe
+*.log
